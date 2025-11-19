@@ -1,0 +1,7 @@
+#学习链接
+https://github.com/datawhalechina/agentic-ai/tree/main/4.%20%E6%9E%84%E5%BB%BAAgentic%20AI%E7%9A%84%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7%5BPractical%20Tips%20for%20Building%20Agentic%20AI%5D
+
+#学习心得
+1. Agent的开发其实还是工程化的方法，有点像原型开发+性能调优+用户反馈，如果用敏捷的开发方式看就是小步迭代
+2. 和原型开发不同的地方是，要设计自己的评估模型，然后去评估这个Agent开发的是不是准确率比较高，但区别也不太大。
+3. 教程里关于真机的实操的步骤讲的比较少，建议可以加一点。
